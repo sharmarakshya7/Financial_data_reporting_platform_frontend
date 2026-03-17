@@ -1,0 +1,79 @@
+{
+  "hash": "94d87620",
+  "configHash": "5e831b87",
+  "lockfileHash": "f8f74aad",
+  "browserHash": "30ba9c09",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "96d642fc",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "9d5aa992",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "2bd74728",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "eae40971",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "9c682f6e",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "6f719b91",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "f23cda91",
+      "needsInterop": false
+    },
+    "zone.js": {
+      "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "32da8d9c",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-7WWOG2AJ": {
+      "file": "chunk-7WWOG2AJ.js"
+    },
+    "chunk-B2ONY3NQ": {
+      "file": "chunk-B2ONY3NQ.js"
+    },
+    "chunk-ZYMREM3D": {
+      "file": "chunk-ZYMREM3D.js"
+    },
+    "chunk-IBYOR2JF": {
+      "file": "chunk-IBYOR2JF.js"
+    },
+    "chunk-XDV2JEYR": {
+      "file": "chunk-XDV2JEYR.js"
+    },
+    "chunk-RSS3ODKE": {
+      "file": "chunk-RSS3ODKE.js"
+    },
+    "chunk-WDMUDEB6": {
+      "file": "chunk-WDMUDEB6.js"
+    }
+  }
+}
